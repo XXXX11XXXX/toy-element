@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pnpm --filter @toy-element/play dev",
     "docs:dev":"pnpm --filter @toy-element/docs dev",
-    "docs:bulid":"pnpm --filter @toy-element/docs/bulid",
+    "docs:build": "pnpm --filter @toy-element/docs build",
     "test": "echo \"todo\""
   },
   "keywords": [],
